@@ -1,0 +1,12 @@
+#include <stdio.h> 
+int main () {
+
+int grade1 = 80, grade2 = 74, grade3 = 77;
+
+printf(" grade1: %d /n ", grade1);
+printf(" grade2: %d /n ", grade2);
+printf(" grade3: %d /n ", grade3);
+
+return 0;
+
+}
